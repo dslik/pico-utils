@@ -1,4 +1,4 @@
-## SNON Utilities
+## Pi Pico Utilities
 
 A series of C libraries for use in embedded systems that use the RP2040 (e.g. the Raspberry Pi Pico), including:
 
